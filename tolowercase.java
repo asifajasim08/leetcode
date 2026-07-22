@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
     public String toLowerCase(String s) {
     StringBuilder result = new StringBuilder();
 
